@@ -1,0 +1,72 @@
+{
+    "1": {
+        "fn": "Lucy",
+        "ln": "Wang",
+        "bday": "1999-01-24",
+        "streetAddress": "123 Main St",
+        "cityAddress": "Brooklyn",
+        "state": "NY",
+        "em": "lucy@gmail.com",
+        "pw": "123",
+        "pastworksite": ["Worksite A", "Worksite B", "Worksite C", "Worksite D", "Worksite B", "Worksite C"],
+        "currentworksite": "Worksite A"
+    },
+    "2": {
+        "fn": "Judith",
+        "ln": "Hernandez",
+        "bday": "2001-02-13",
+        "streetAddress": "345 Dean St",
+        "cityAddress": "Brooklyn",
+        "state": "NY",
+        "em": "judy@gmail.com",
+        "pw": "1234",
+        "pastworksite": [],
+        "currentworksite": "Worksite A"
+    },
+    "3": {
+        "fn": "Liz",
+        "ln": "Luna",
+        "bday": "2001-09-23",
+        "streetAddress": "345 Apple St",
+        "cityAddress": "Brooklyn",
+        "state": "NY",
+        "em": "liz@gmail.com",
+        "pw": "1234",
+        "pastworksite": [],
+        "currentworksite": "Worksite D"
+    },
+    "4": {
+        "fn": "Oliver",
+        "ln": "Perry",
+        "bday": "1999-10-31",
+        "streetAddress": "643 Spring St",
+        "cityAddress": "LIC",
+        "state": "NY",
+        "em": "oliver@gmail.com",
+        "pw": "1234",
+        "pastworksite": [],
+        "currentworksite": "Worksite C"
+    },
+    "5": {
+        "fn": "Joey",
+        "ln": "Sherman",
+        "bday": "2003-04-19",
+        "streetAddress": "563 Main St",
+        "cityAddress": "Brooklyn",
+        "state": "NY",
+        "em": "joey@gmail.com",
+        "pw": "1234",
+        "pastworksite": ["Worksite B"],
+        "currentworksite": "Worksite C"
+    },
+    "6": {
+        "fn": "Alex",
+        "ln": "Gomez",
+        "bday": "2005-10-22",
+        "streetAddress": "126 Dean St",
+        "cityAddress": "Brooklyn",
+        "state": "NY",
+        "em": "alex@gmail.com",
+        "pw": "1234"
+    }
+}
